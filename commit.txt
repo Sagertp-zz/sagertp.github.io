@@ -1,0 +1,11 @@
+commit 221b5e839cec422aaa111e0e7ad343a50caa8445
+Author: Saget <sagertp@gmail.com>
+Date:   Sun May 14 21:19:42 2017 -0400
+
+    Agregamos el icono de Facebook al footer dela pagina
+
+commit b53b52b70e9c6cff58980564829d518d904c869f
+Author: Saget <sagertp@gmail.com>
+Date:   Sun May 14 21:11:32 2017 -0400
+
+    Iniciamos proyecto
